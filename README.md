@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋 I'm Arif Putra Rochman
+🌱 I’m currently learning Mobile Development
+
 
 <!--
 **Aartra/Aartra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
