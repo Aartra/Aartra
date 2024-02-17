@@ -10,6 +10,10 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=C6A76E&background=282C34&center=true&vCenter=true&random=false&width=435&height=100&lines=Gokil bisa gini" alt="Fauzan's Typing SVG" /></a>
+</p>
+
 <!--
 **Aartra/Aartra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
