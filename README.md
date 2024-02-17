@@ -1,5 +1,8 @@
-# Hi there 👋 I'm Arif Putra Rochman
-🌱 I’m currently learning Mobile Development
+<h1 align="center">Hi there 👋 I'm Aartra
+</h1>
+
+<h3 align="center">and I’m currently learning Mobile Development 🌱 </h3>
+
 
 
 <!--
